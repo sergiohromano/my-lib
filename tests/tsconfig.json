@@ -5,7 +5,7 @@
         "path": ".."
     }],
     "compilerOptions": {
-        "types": ["jest"],
+        "types": ["vitest/globals"],
         "rootDir": "..",
         "noEmit": true
     },
